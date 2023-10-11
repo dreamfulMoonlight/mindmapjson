@@ -1,1 +1,2 @@
-# mindmapjson
+# QML绘制思维导图
+使用QML结合QuickItem动态生成树型思维导图
